@@ -1,3 +1,4 @@
+# Core dependencies
 pypdf
 langchain
 langchain-community
@@ -5,3 +6,11 @@ chromadb
 sentence-transformers
 google-genai
 python-dotenv
+
+# Testing dependencies
+pytest
+pytest-cov
+
+# Development dependencies
+ruff
+mypy
